@@ -1,0 +1,3 @@
+[submodule "nest/submo"]
+	path = nest/submo
+	url = git@github.com:q-tanabe/submodule.git
